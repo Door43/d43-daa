@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[daa:home|Door43 (daa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-daa|d43-daa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-daa/archive/master.zip|d43-daa.zip]]
+
+**Recent Changes**
+{{changes>ns = daa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/daa|Ethnologue data]]
+
